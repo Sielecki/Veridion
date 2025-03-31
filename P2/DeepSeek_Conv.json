@@ -1,0 +1,283 @@
+{
+  "name": "Agriculture & Food Processing Services",
+  "pinned": false,
+  "createdAt": 1743402632026,
+  "preset": "",
+  "tokenCount": 2086,
+  "systemPrompt": "",
+  "messages": [
+    {
+      "versions": [
+        {
+          "type": "singleStep",
+          "role": "user",
+          "content": [
+            {
+              "type": "text",
+              "text": "Given this list of labels?\n\nlabel\nAgricultural Equipment Services\nSoil Nutrient Application Services\nPesticide Application Services\nOrnamental Plant Nurseries\nLandscaping Services\nGardening Services\nTree Services - Pruning / Removal\nVeterinary Services\nVeterinary Clinics\nPet Boarding Services\nAnimal Day Care Services\nPet Grooming Services\nAnimal Training Services\nVeterinary Health Centers\nAnimal Trainers\nLivestock Dealer Services\nTimber Harvesting Operations\nFishing and Hunting Services\nWell Maintenance Services\nField Welding Services\nSand and Gravel Mining\nResidential Driveway Construction\nCommercial Driveway Construction\nFencing Construction Services\nSidewalk Construction Services\nCommercial Irrigation Systems\nResidential Drainage Systems\nResidential Snow Removal\nCommercial Snow Removal\nGeneral Snow Removal Services\nLand Leveling Services\nResidential Drain Cleaning\nCommercial Drain Cleaning\nStreet Cleaning Operations\nConveyor System Installation\nLow-Rise Signage Installation\nHigh-Rise Signage Installation\nTank Installation Services\nResidential Communication Equipment Installation\nCommercial Communication Equipment Installation\nLow-Rise Glass Installation\nHigh-Rise Glass Installation\nIndustrial Machinery Installation\nAgricultural Machinery Installation\nGrain Handling Machinery Installation\nDock and Pier Construction\nRoad and Highway Construction\nRoad Maintenance Services\nPipeline Construction Services\nNew Ground Pipeline Installation\nExcavation Services\nResidential Plumbing Services\nCommercial Plumbing Services\nIndustrial Plumbing Services\nBoiler Installation Services\nBoiler Repair Services\nSteam Services\nGas Installation Services\nMedical Gas Installation Services\nFire Protection System Services\nHVAC Installation and Service\nHVAC Inspections\nAir Duct Cleaning Services\nWater Treatment Services\nResidential Electrical Services\nCommercial Electrical Services\nAlarm Installation Services\nElectric Line Construction\nCable Installation Services\nElevator Installation Services\nLow-Rise Foundation Construction\nHigh-Rise Foundation Construction\nPrecast Concrete Installation\nTilt-Up Concrete Services\nMasonry Construction Services\nDrywall Services\nTile Installation Services\nCarpentry Services\nMillwork Services\nGeneral Handyman Services\nInsulation Services\nPainting Services\nSpray Painting Services\nFlooring Installation Services\nInterior Design Services\nHome Staging Services\nSheet Metal Services\nWelding Services\nStructural Steel Erection\nNon-Structural Steel Fabrication\nWindows and Doors Installation\nWell Drilling Services\nDirectional Drilling Services\nInfrastructure Excavation\nNew Ground Excavation\nResidential Roofing Services\nRoofing Services with Heat Application\nWaterproofing Services\nSeptic System Services\nBuilding Cleaning Services\nFire Safety Equipment Services\nTesting and Inspection Services\nSingle Family Residential Construction\nSingle Family Renovation Services\nMulti-Family Construction Services\nApartment Renovation Services\nRestoration Services\nMobile Home Construction Services\nCommercial Construction Services\nCommercial Renovation Services\nSwimming Pool Installation Services\nSwimming Pool Maintenance Services\nVacant Building Management\nVacant Land Services\nMeat Processing Services\nSeafood Processing Services\nDairy Production Services\nFrozen Food Processing\nIce Production Services\nCanning Services\nAnimal Feed Manufacturing\nPet Food Manufacturing\nGrain Processing Services\nCoffee Processing Services\nSeed Processing Services\nBakery Production Services\nConfectionery Manufacturing\nDistilling Services\nBrewery Operations\nNon-Alcoholic Beverage Manufacturing\nOil and Fat Manufacturing\nRendering Services\nTextile Manufacturing Services\nCarpet Manufacturing Services\nApparel Manufacturing\nAccessory Manufacturing\nChildren's Clothing Manufacturing\nWindow Treatment Manufacturing\nCanvas Manufacturing\nRope Production Services\nTent Manufacturing Services\nWood Product Manufacturing\nWindow and Door Manufacturing\nCabinetry Manufacturing\nTrim Manufacturing\nPallet Manufacturing\nFurniture Manufacturing\nBedding Manufacturing\nPaper Production Services\nStationery Manufacturing\nPublishing Services\nPrinting Services\nGas Manufacturing Services\nInk Production Services\nPlastic Manufacturing\nCosmetic Manufacturing\nSoap Production Services\nChemical Manufacturing\nAsphalt Production Services\nRubber Manufacturing\nPlastic Signage Production\nMedia Production Services\nSoftware Manufacturing\nFood Processing Services\nPharmaceutical Manufacturing\nLaboratory Services\nWaste Management Services\nRecycling Services\nEnvironmental Consulting\nProperty Management Services\nReal Estate Services\nInsurance Services\nFinancial Services\nLegal Services\nConsulting Services\nMarketing Services\nHuman Resources Services\nManagement Consulting\nBusiness Development Services\nProject Management Services\nTechnology Consulting\nSoftware Development Services\nData Analysis Services\nMarket Research Services\nStrategic Planning Services\nTraining Services\nPublic Relations Services\nEvent Planning Services\nCatering Services\nTravel Services\nDigital Marketing Services\nE-Commerce Services\nOnline Marketing Services\nContent Creation Services\nWebsite Development Services\nSEO Services\nSocial Media Services\nBranding Services\nGraphic Design Services\nAdvertising Services\nCorporate Training Services\nHealth and Safety Consulting\nFood Safety Services\nQuality Assurance Services\nCompliance Services\nEnvironmental Health Services\nRisk Assessment Services\nCrisis Management Services\nCommunity Engagement Services\nStakeholder Services\nCorporate Responsibility Services\nFundraising Services\nVolunteer Services\nNon-Profit Management\nArts Services\nSports Management Services\nFitness Coaching\nHealth Promotion Services\nPhysical Therapy Services\nOccupational Health Services"
+            }
+          ]
+        }
+      ],
+      "currentlySelected": 0
+    },
+    {
+      "versions": [
+        {
+          "type": "multiStep",
+          "role": "assistant",
+          "senderInfo": {
+            "senderName": "deepseek-r1-distill-qwen-7b"
+          },
+          "steps": [
+            {
+              "type": "contentBlock",
+              "stepIdentifier": "1743402662832-0.14081422356115936",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "\nOkay, so I have this list of labels and I need to figure out how they can be grouped or categorized. Let me start by reading through the entire list again to get a sense of what each label represents.\n\nFirst, looking at some initial entries: \"Agricultural Equipment Services,\" \"Soil Nutrient Application Services,\" \"Pesticide Application Services.\" These all seem related to farming and agriculture. Then there's \"Ornamental Plant Nurseries\" which also falls under horticulture or landscaping.\n\nMoving on, I see \"Landscaping Services,\" \"Gardening Services,\" \"Tree Services - Pruning / Removal,\" these are definitely part of the same category. Then it shifts a bit with \"Veterinary Services.\" That's a different sector but still a service. There's also \"Pet Boarding\" and \"Animal Day Care,\" which are related to pet care.\n\nFurther down, I notice services like \"Construction\" types such as \"Residential Driveway Construction,\" \"Fencing Construction,\" \"Sidewalk Construction,\" etc. These fall under construction or building-related services. Then there's a mix of industrial machinery installation and agricultural machinery, which suggests some kind of industrial or manufacturing sector.\n\nLooking at the next part, it includes various types of equipment and installations: \"Conveyor System Installation,\" \"Low-Rise Signage,\" \"High-Rise Signage,\" \"Tank Installation,\" communication equipment, glass, machinery for industry and agriculture. So this could be under facility installation services.\n\nThen I see a lot of plumbing and HVAC systems: \"Residential Plumbing Services,\" \"HVAC Installation and Service,\" \"Water Treatment,\" which points to utility or infrastructure services.\n\nThere are also sections about manufacturing processes like food processing, pharmaceuticals, packaging, etc., suggesting maybe a focus on industrial manufacturing. Then services related to real estate: \"Property Management,\" \"Real Estate Services.\"\n\nWait, but some labels seem out of order. For example, after facility installations, there's \"Residential Plumbing\" which is more about utilities. Then it goes into legal and financial services like \"Legal Services,\" \"Consulting Services,\" \"Human Resources.\" That’s quite a switch from the earlier categories.\n\nI also see \"Marketing,\" \"Training,\" \"Fundraising,\" which are service sectors related to business operations but not tied to specific industries. Then there's a lot of support services: \"General Handyman,\" \"Insulation,\" \"Painting,\" etc., which could be part of construction or renovation services.\n\nSome labels like \"Software Development\" and \"E-Commerce\" are tech-related, indicating digital transformation services. Also, \"Social Media\" falls under digital marketing.\n\nI notice a pattern where the list is quite broad, covering various sectors from agriculture to technology. Maybe it's best to categorize them based on industry or function rather than their specific services.\n\nLet me try grouping them:\n\n1. **Agriculture and Food Processing**: Includes all labels related to farming equipment, nutrient application, pesticides, ornamental plants, and animal-related services.\n2. **Construction and Building**: Covers driveways, fencing, sidewalks, commercial construction, etc.\n3. **Facility Installation**: Conveyor systems, signages, tanks, industrial machinery installation.\n4. **HVAC and Plumbing**: HVAC systems, plumbing services, water treatment.\n5. **Manufacturing Services**: Includes various manufacturing processes like packaging, food processing, pharmaceuticals.\n6. **Real Estate and Property Management**: Labels related to property management, real estate services.\n7. **Legal and Financial Services**: Legal assistance, insurance, financial services.\n8. **Human Resources and Training**: Employee-related services, training.\n9. **Marketing and Digital Services**: Online marketing, social media, digital marketing.\n10. **Community and Support Services**: General handyman, painting, insulation, etc., which can be part of renovation or construction.\n\nWait, but some labels like \"Veterinary Services\" don't fit into the above categories, so maybe they need their own category or are included under animal-related services within agriculture.\n\nAlso, \"Software Development\" and \"E-Commerce\" could fall under Technology or Digital Transformation. Similarly, \"Human Resources\" is a service for businesses operating in any industry.\n\nI think it makes sense to categorize them into broader sectors: Agriculture & Food Processing, Construction, Facility Installation, HVAC & Plumbing, Manufacturing, Real Estate, Legal & Financial, Human Resources, Marketing & Digital Services, and Community & Support Services. This way, each main category can contain various specific services.\n",
+                  "fromDraftModel": false,
+                  "tokensCount": 921
+                }
+              ],
+              "defaultShouldIncludeInContext": true,
+              "shouldIncludeInContext": true,
+              "prefix": "<think>",
+              "suffix": "</think>",
+              "style": {
+                "type": "thinking",
+                "ended": true,
+                "title": "Thought for 20.67 seconds"
+              }
+            },
+            {
+              "type": "contentBlock",
+              "stepIdentifier": "1743402683609-0.8790934834754494",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "\n\nThe list of labels can be effectively categorized into the following broader sectors:\n\n1. **Agriculture & Food Processing**: Includes services related to farming equipment, nutrient application, pesticides, ornamental plants, and animal-related services.\n\n2. **Construction**: Covers driveways, fencing, sidewalks, commercial construction, renovation, and building-related services.\n\n3. **Facility Installation**: Includes conveyor systems, signages, tanks, and industrial machinery installation.\n\n4. **HVAC & Plumbing**: Involves HVAC system installation, plumbing services, water treatment, and related utilities.\n\n5. **Manufacturing Services**: Encompasses various manufacturing processes such as packaging, food processing, pharmaceuticals, and material handling.\n\n6. **Real Estate & Property Management**: Relates to property management and real estate services.\n\n7. **Legal & Financial Services**: Includes legal assistance, insurance, financial services, and compliance-related matters.\n\n8. **Human Resources**: Focuses on employee-related services and training within businesses.\n\n9. **Marketing & Digital Services**: Covers online marketing, social media, digital advertising, and web development.\n\n10. **Community & Support Services**: Includes general handyman services, painting, insulation, and other renovation tasks, which are part of broader support or construction sectors.\n\nThis categorization organizes the labels into meaningful groups based on industry function, providing a structured overview from agriculture to technology.",
+                  "fromDraftModel": false,
+                  "tokensCount": 280
+                }
+              ],
+              "genInfo": {
+                "indexedModelIdentifier": "lmstudio-community/DeepSeek-R1-Distill-Qwen-7B-GGUF/DeepSeek-R1-Distill-Qwen-7B-Q4_K_M.gguf",
+                "identifier": "deepseek-r1-distill-qwen-7b",
+                "loadModelConfig": {
+                  "fields": [
+                    {
+                      "key": "llm.load.llama.cpuThreadPoolSize",
+                      "value": 6
+                    },
+                    {
+                      "key": "llm.load.contextLength",
+                      "value": 4096
+                    },
+                    {
+                      "key": "llm.load.llama.acceleration.offloadRatio",
+                      "value": 1
+                    }
+                  ]
+                },
+                "predictionConfig": {
+                  "fields": [
+                    {
+                      "key": "llm.prediction.promptTemplate",
+                      "value": {
+                        "type": "jinja",
+                        "jinjaPromptTemplate": {
+                          "template": "{% if not add_generation_prompt is defined %}{% set add_generation_prompt = false %}{% endif %}{% set ns = namespace(is_first=false, is_tool=false, is_output_first=true, system_prompt='') %}{%- for message in messages %}{%- if message['role'] == 'system' %}{% set ns.system_prompt = message['content'] %}{%- endif %}{%- endfor %}{{bos_token}}{{ns.system_prompt}}{%- for message in messages %}{%- if message['role'] == 'user' %}{%- set ns.is_tool = false -%}{{'<｜User｜>' + message['content']}}{%- endif %}{%- if message['role'] == 'assistant' and message['content'] is none %}{%- set ns.is_tool = false -%}{%- for tool in message['tool_calls']%}{%- if not ns.is_first %}{{'<｜Assistant｜><｜tool▁calls▁begin｜><｜tool▁call▁begin｜>' + tool['type'] + '<｜tool▁sep｜>' + tool['function']['name'] + '\\n' + '```json' + '\\n' + tool['function']['arguments'] + '\\n' + '```' + '<｜tool▁call▁end｜>'}}{%- set ns.is_first = true -%}{%- else %}{{'\\n' + '<｜tool▁call▁begin｜>' + tool['type'] + '<｜tool▁sep｜>' + tool['function']['name'] + '\\n' + '```json' + '\\n' + tool['function']['arguments'] + '\\n' + '```' + '<｜tool▁call▁end｜>'}}{{'<｜tool▁calls▁end｜><｜end▁of▁sentence｜>'}}{%- endif %}{%- endfor %}{%- endif %}{%- if message['role'] == 'assistant' and message['content'] is not none %}{%- if ns.is_tool %}{{'<｜tool▁outputs▁end｜>' + message['content'] + '<｜end▁of▁sentence｜>'}}{%- set ns.is_tool = false -%}{%- else %}{% set content = message['content'] %}{% if '</think>' in content %}{% set content = content.split('</think>')|last %}{% endif %}{{'<｜Assistant｜>' + content + '<｜end▁of▁sentence｜>'}}{%- endif %}{%- endif %}{%- if message['role'] == 'tool' %}{%- set ns.is_tool = true -%}{%- if ns.is_output_first %}{{'<｜tool▁outputs▁begin｜><｜tool▁output▁begin｜>' + message['content'] + '<｜tool▁output▁end｜>'}}{%- set ns.is_output_first = false %}{%- else %}{{'\\n<｜tool▁output▁begin｜>' + message['content'] + '<｜tool▁output▁end｜>'}}{%- endif %}{%- endif %}{%- endfor -%}{% if ns.is_tool %}{{'<｜tool▁outputs▁end｜>'}}{% endif %}{% if add_generation_prompt and not ns.is_tool %}{{'<｜Assistant｜>'}}{% endif %}",
+                          "bosToken": "<｜begin▁of▁sentence｜>",
+                          "eosToken": "<｜end▁of▁sentence｜>",
+                          "inputConfig": {
+                            "messagesConfig": {
+                              "contentConfig": {
+                                "type": "string"
+                              }
+                            },
+                            "useTools": false
+                          }
+                        },
+                        "stopStrings": []
+                      }
+                    },
+                    {
+                      "key": "llm.prediction.llama.cpuThreads",
+                      "value": 6
+                    }
+                  ]
+                },
+                "stats": {
+                  "stopReason": "eosFound",
+                  "tokensPerSecond": 44.03461208286349,
+                  "numGpuLayers": -1,
+                  "timeToFirstTokenSec": 1.21,
+                  "promptTokensCount": 1037,
+                  "predictedTokensCount": 1204,
+                  "totalTokensCount": 2241
+                }
+              },
+              "defaultShouldIncludeInContext": true,
+              "shouldIncludeInContext": true
+            },
+            {
+              "type": "debugInfoBlock",
+              "stepIdentifier": "1743402689998-0.25524291653746367",
+              "debugInfo": "Conversation naming technique: 'prompt'"
+            }
+          ]
+        }
+      ],
+      "currentlySelected": 0
+    },
+    {
+      "versions": [
+        {
+          "type": "singleStep",
+          "role": "user",
+          "content": [
+            {
+              "type": "text",
+              "text": "Welchcivils is a civil engineering and construction company that specializes in designing and building utility network connections across the UK. They offer multi-utility solutions that combine electricity, gas, water, and fibre optic installation into a single contract. Their design engineer teams are capable of designing electricity, water and gas networks from existing network connection points to meter locations at the development, as well as project management of reinforcements and diversions. They provide custom connection solutions that take into account any existing assets, maximize the usage of every trench, and meet project deadlines. Welchcivils has considerable expertise installing gas and electricity connections in a variety of market categories, including residential, commercial, and industrial projects, as as well.\",\"['Construction Services', 'Multi-utilities', 'Utility Network Connections Design and Construction', 'Water Connection Installation', 'Multi-utility Connections', 'Fiber Optic Installation']\",Services,Civil Engineering Services,Other Heavy and Civil Engineering Construction\n\nCan you assign labels to this?"
+            }
+          ]
+        }
+      ],
+      "currentlySelected": 0
+    },
+    {
+      "versions": [
+        {
+          "type": "multiStep",
+          "role": "assistant",
+          "senderInfo": {
+            "senderName": "deepseek-r1-distill-qwen-7b"
+          },
+          "steps": [
+            {
+              "type": "contentBlock",
+              "stepIdentifier": "1743402736115-0.8497856814956926",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "\nAlright, so I'm trying to figure out how to categorize Welchcivils based on the information given. They're a civil engineering and construction company that specializes in designing and building utility network connections across the UK.\n\nFirst, their main offering is multi-utility solutions—combining electricity, gas, water, and fibre optic installations into one contract. That seems pretty specific and specialized. So maybe \"Multi-Utility Solutions\" could be a label for them.\n\nThey have design engineer teams that can handle various aspects like designing electricity, water, and gas networks from existing points to meter locations at different development stages. They also manage reinforcements and diversions as part of their project management. This suggests they have a comprehensive approach to utility installations across different phases. So perhaps \"Utility Network Connections Design and Construction\" would be another fitting label.\n\nTheir expertise extends to various market categories like residential, commercial, and industrial projects. This indicates versatility in the types of construction services they can offer. Therefore, \"Construction Services\" might also be an appropriate label for them.\n\nAdditionally, Welchcivils specifically mentions gas and electricity connections, which are common components of utility installations. So labeling them as \"Gas Installation Services\" or \"Electricity Installation Services\" could be more specific than the broader \"Utility Network Connections.\"\n\nThey also handle fibre optic installations, which is another component of their multi-utility solutions. Therefore, adding a label like \"Fiber Optic Installation\" would capture that aspect.\n\nNow, looking at the provided categories:\n\n1. **Construction Services**: This seems broad but applicable since Welchcivils offers construction-related services.\n2. **Multi-Utilities**: Directly reflects their ability to combine multiple utilities into one contract.\n3. **Utility Network Connections Design and Construction**: Accurately describes their specialized work in designing and building these networks.\n\nThe other options like \"Civil Engineering Services\" are too general, as they specifically focus on utility installations rather than broader civil engineering projects.\n\nSo, the most appropriate labels for Welchcivils would be:\n\n- Construction Services\n- Multi-Utilities\n- Utility Network Connections Design and Construction\n\nThese labels capture their specific services without being too broad or redundant.\n",
+                  "fromDraftModel": false,
+                  "tokensCount": 437
+                }
+              ],
+              "defaultShouldIncludeInContext": true,
+              "shouldIncludeInContext": true,
+              "style": {
+                "type": "thinking",
+                "ended": true,
+                "title": "Thought for 9.65 seconds"
+              },
+              "prefix": "<think>",
+              "suffix": "</think>"
+            },
+            {
+              "type": "contentBlock",
+              "stepIdentifier": "1743402745879-0.8703237722732506",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "\n\nBased on the analysis of Welchcivils' offerings, the most appropriate labels are:\n\n1. **Construction Services**: To reflect their general construction expertise.\n2. **Multi-Utilities**: To emphasize their specialized ability to combine multiple utilities into a single contract.\n3. **Utility Network Connections Design and Construction**: To specifically highlight their focus on designing and building utility networks.\n\nThese labels effectively capture Welchcivils' services without being overly broad or redundant, providing a clear and concise categorization of their work.",
+                  "fromDraftModel": false,
+                  "tokensCount": 101
+                }
+              ],
+              "defaultShouldIncludeInContext": true,
+              "shouldIncludeInContext": true,
+              "genInfo": {
+                "indexedModelIdentifier": "lmstudio-community/DeepSeek-R1-Distill-Qwen-7B-GGUF/DeepSeek-R1-Distill-Qwen-7B-Q4_K_M.gguf",
+                "identifier": "deepseek-r1-distill-qwen-7b",
+                "loadModelConfig": {
+                  "fields": [
+                    {
+                      "key": "llm.load.llama.cpuThreadPoolSize",
+                      "value": 6
+                    },
+                    {
+                      "key": "llm.load.contextLength",
+                      "value": 4096
+                    },
+                    {
+                      "key": "llm.load.llama.acceleration.offloadRatio",
+                      "value": 1
+                    }
+                  ]
+                },
+                "predictionConfig": {
+                  "fields": [
+                    {
+                      "key": "llm.prediction.promptTemplate",
+                      "value": {
+                        "type": "jinja",
+                        "jinjaPromptTemplate": {
+                          "template": "{% if not add_generation_prompt is defined %}{% set add_generation_prompt = false %}{% endif %}{% set ns = namespace(is_first=false, is_tool=false, is_output_first=true, system_prompt='') %}{%- for message in messages %}{%- if message['role'] == 'system' %}{% set ns.system_prompt = message['content'] %}{%- endif %}{%- endfor %}{{bos_token}}{{ns.system_prompt}}{%- for message in messages %}{%- if message['role'] == 'user' %}{%- set ns.is_tool = false -%}{{'<｜User｜>' + message['content']}}{%- endif %}{%- if message['role'] == 'assistant' and message['content'] is none %}{%- set ns.is_tool = false -%}{%- for tool in message['tool_calls']%}{%- if not ns.is_first %}{{'<｜Assistant｜><｜tool▁calls▁begin｜><｜tool▁call▁begin｜>' + tool['type'] + '<｜tool▁sep｜>' + tool['function']['name'] + '\\n' + '```json' + '\\n' + tool['function']['arguments'] + '\\n' + '```' + '<｜tool▁call▁end｜>'}}{%- set ns.is_first = true -%}{%- else %}{{'\\n' + '<｜tool▁call▁begin｜>' + tool['type'] + '<｜tool▁sep｜>' + tool['function']['name'] + '\\n' + '```json' + '\\n' + tool['function']['arguments'] + '\\n' + '```' + '<｜tool▁call▁end｜>'}}{{'<｜tool▁calls▁end｜><｜end▁of▁sentence｜>'}}{%- endif %}{%- endfor %}{%- endif %}{%- if message['role'] == 'assistant' and message['content'] is not none %}{%- if ns.is_tool %}{{'<｜tool▁outputs▁end｜>' + message['content'] + '<｜end▁of▁sentence｜>'}}{%- set ns.is_tool = false -%}{%- else %}{% set content = message['content'] %}{% if '</think>' in content %}{% set content = content.split('</think>')|last %}{% endif %}{{'<｜Assistant｜>' + content + '<｜end▁of▁sentence｜>'}}{%- endif %}{%- endif %}{%- if message['role'] == 'tool' %}{%- set ns.is_tool = true -%}{%- if ns.is_output_first %}{{'<｜tool▁outputs▁begin｜><｜tool▁output▁begin｜>' + message['content'] + '<｜tool▁output▁end｜>'}}{%- set ns.is_output_first = false %}{%- else %}{{'\\n<｜tool▁output▁begin｜>' + message['content'] + '<｜tool▁output▁end｜>'}}{%- endif %}{%- endif %}{%- endfor -%}{% if ns.is_tool %}{{'<｜tool▁outputs▁end｜>'}}{% endif %}{% if add_generation_prompt and not ns.is_tool %}{{'<｜Assistant｜>'}}{% endif %}",
+                          "bosToken": "<｜begin▁of▁sentence｜>",
+                          "eosToken": "<｜end▁of▁sentence｜>",
+                          "inputConfig": {
+                            "messagesConfig": {
+                              "contentConfig": {
+                                "type": "string"
+                              }
+                            },
+                            "useTools": false
+                          }
+                        },
+                        "stopStrings": []
+                      }
+                    },
+                    {
+                      "key": "llm.prediction.llama.cpuThreads",
+                      "value": 6
+                    }
+                  ]
+                },
+                "stats": {
+                  "stopReason": "eosFound",
+                  "tokensPerSecond": 44.70689789999801,
+                  "numGpuLayers": -1,
+                  "timeToFirstTokenSec": 0.402,
+                  "promptTokensCount": 1515,
+                  "predictedTokensCount": 541,
+                  "totalTokensCount": 2056
+                }
+              }
+            },
+            {
+              "type": "debugInfoBlock",
+              "stepIdentifier": "1743402748039-0.9211081175812572",
+              "debugInfo": "Conversation naming technique: 'prompt'"
+            }
+          ]
+        }
+      ],
+      "currentlySelected": 0
+    }
+  ],
+  "usePerChatPredictionConfig": true,
+  "perChatPredictionConfig": {
+    "fields": []
+  },
+  "clientInput": "",
+  "clientInputFiles": [],
+  "userFilesSizeBytes": 0,
+  "lastUsedModel": {
+    "indexedModelIdentifier": "lmstudio-community/DeepSeek-R1-Distill-Qwen-7B-GGUF/DeepSeek-R1-Distill-Qwen-7B-Q4_K_M.gguf",
+    "identifier": "deepseek-r1-distill-qwen-7b",
+    "instanceLoadTimeConfig": {
+      "fields": []
+    },
+    "instanceOperationTimeConfig": {
+      "fields": []
+    }
+  },
+  "notes": [],
+  "plugins": [],
+  "pluginConfigs": {},
+  "looseFiles": []
+}
